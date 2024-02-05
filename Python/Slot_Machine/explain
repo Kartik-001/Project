@@ -1,0 +1,16 @@
+# A TEXT BASED SLOT MACHINE
+
+-whereby a user will deposit a certain amount of money, we're then going to allow them to bet on either one of
+many lines of the slot machine
+-like one row = 1X, two rows = 2X, three rows = 3X
+-add that to their balance and then allow them to continue until they want to cash out
+
+# THINGS WE NEED TO DO IN THIS PROJECT
+
+-we need to collect the user inputs such deposit, lines to bet, betting amount etc
+-we need to add it to their balance
+-we need to allow them to bet on a line or multiples lines
+-we need to see if they actually got any of those lines
+-we need to spin the slot machine
+-we need to generate the different items in the slot machine
+-we need to add whatever they won back to their balance

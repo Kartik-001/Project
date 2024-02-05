@@ -1,0 +1,6 @@
+Linear Regression: Mean MSE = 26.107462636034928, Standard Deviation = 7.898523073074735
+Ridge Regression: Mean MSE = 26.070031389354966, Standard Deviation = 7.947847172080058
+Lasso Regression: Mean MSE = 31.12603811980956, Standard Deviation = 10.312490446273056
+Random Forest Regressor: Mean MSE = 11.336481764876542, Standard Deviation = 2.7846477157874925
+Support Vector Regressor: Mean MSE = 35.35450688410796, Standard Deviation = 15.973640849071666
+DecisionTreeRegressor: Mean MSE = 23.08850833333333, Standard Deviation = 7.488954030203579

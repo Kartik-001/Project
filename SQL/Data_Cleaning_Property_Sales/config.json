@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "data"
+    },
+    "other_settings": {
+        "api_key": "your_api_key",
+        "debug_mode": true
+    }
+}
